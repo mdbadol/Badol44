@@ -1,10 +1,10 @@
-   <nav class="navbar navbar-dark bg-dark navbar-expand-md">
+   <nav class="navbar navbar-dark bg-dark navbar-expand-md"> //
         <div class="container">
             <a href="">Libray Managemet</a>
             <div>
-                <ul class="navbar nav">
+                <ul class="navbar nav">   //That remove bullet//
                     <li class="nav-item">
-                        <a href="" class="nav-link">Home</a>
+                        <a href="" class="nav-link">Home</a>    //show navbar in horizontally//
                     </li>
                     <li class="nav-item">
                         <a href="" class="nav-link">About</a>
